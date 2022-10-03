@@ -1,0 +1,16 @@
+.o-layout{
+    display: block;
+    position: relative;
+    margin: 40px auto;
+    height: auto;
+    width: 500px;
+    padding: 20px;
+
+    &__headerContainer{
+        margin:30px 10px;
+    }
+
+    &__header {
+        color: #AAAAAA;
+    }
+}

@@ -1,0 +1,10 @@
+@use "settings/settings";
+@use "generic/generic";
+@use "elements/elements";
+@use "objects/objects";
+@use "components/components";
+
+body, html {
+    font-family: settings.$fontFamily;
+    background: settings.$mainBg;
+}
