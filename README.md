@@ -3,4 +3,6 @@ An HTML5, SCSS/CSS3 &amp; JavaScript mini demo asking an user to choose their fa
 
 ![image](https://user-images.githubusercontent.com/14171094/193691727-47d362eb-461d-4c13-a543-167812019856.png)
 
-![image](https://user-images.githubusercontent.com/14171094/193691875-301b090b-5322-4f25-9c86-87bafb9b6811.png)
+![image](https://user-images.githubusercontent.com/14171094/193719505-0bfcdc22-b2f3-4778-b904-708ce621f13c.png)
+
+![image](https://user-images.githubusercontent.com/14171094/193719387-7c2d4e9d-887c-4e81-86a8-54bbc81748f7.png)
