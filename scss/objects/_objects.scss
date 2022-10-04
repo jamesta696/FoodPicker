@@ -1,3 +1,5 @@
+@use "../settings/settings";
+
 .o-layout{
     display: block;
     position: relative;
@@ -11,6 +13,6 @@
     }
 
     &__header {
-        color: #AAAAAA;
+        color: settings.$grey_white;
     }
 }
