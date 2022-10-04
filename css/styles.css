@@ -90,7 +90,7 @@ fieldset legend {
   list-style: none;
   margin: 0;
   padding: 0;
-  overflow: auto;
+  overflow: hidden;
 }
 .c-list__item {
   display: block;
@@ -112,7 +112,6 @@ fieldset legend {
   font-weight: 300;
   font-size: 1.35em;
   padding: 30px 30px 50px 80px;
-  height: 30px;
   z-index: 9;
   cursor: pointer;
   transition: all 0.25s linear;
@@ -127,7 +126,7 @@ fieldset legend {
   width: 30px;
   top: 30px;
   left: 20px;
-  z-index: 5;
+  z-index: 9;
   transition: border 0.25s linear;
   -webkit-transition: border 0.25s linear;
 }
